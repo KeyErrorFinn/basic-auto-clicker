@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/KeyErrorFinn/aldi-schedule-to-google-calender/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KeyErrorFinn/aldi-schedule-to-google-calender" /></a>
-  <a href="https://github.com/KeyErrorFinn/aldi-schedule-to-google-calender/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/KeyErrorFinn/aldi-schedule-to-google-calender" /></a>
+  <a href="https://github.com/KeyErrorFinn/basic-auto-clicker/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KeyErrorFinn/basic-auto-clicker" /></a>
+  <a href="https://github.com/KeyErrorFinn/basic-auto-clicker/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/KeyErrorFinn/basic-auto-clicker" /></a>
 </p>
 <p align="center">
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /></a>
